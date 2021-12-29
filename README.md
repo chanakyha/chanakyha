@@ -20,8 +20,8 @@
 <a href="https://twitter.com/chanakyha_vetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanakyha_vetri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chanakyha-vetrichelvan-21025b135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanakyha-vetrichelvan-21025b135" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17717035" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17717035" height="30" width="40" /></a>
-<a href="https://instagram.com/chan-cap-03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chan-cap-03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucd4yrt-anzhty1upphzuslq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucd4yrt-anzhty1upphzuslq" height="30" width="40" /></a>
+<a href="https://instagram.com/chan_cap_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chan-cap-03" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCd4yrt-AnZHtY1upPHzusLQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucd4yrt-anzhty1upphzuslq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
