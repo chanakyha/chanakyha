@@ -32,11 +32,12 @@
 
 
 <br>
-<h2>Coders when they have no internet</h2>
-<img src="Dino_non-birthday_version.gif">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanakyha&show_icons=true&locale=en" alt="chanakyha" /></p>
 <h2>Watch the snake eating my Github Graphs</h2>
 <img src="https://github.com/chanakyha/chanakyha/blob/output/github-contribution-grid-snake.svg">
+<h2>Coders when they have no internet</h2>
+<img src="Dino_non-birthday_version.gif">
+<h2>My Statistics</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanakyha&show_icons=true&locale=en" alt="chanakyha" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanakyha&" alt="chanakyha" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanakyha&show_icons=true&locale=en&layout=compact" alt="chanakyha" /></p>
 
