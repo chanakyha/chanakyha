@@ -1,3 +1,6 @@
+<img src="avatar-bg.png">
+
+
 <h1 align="center">Hi 👋, I'm Chanakyha</h1>
 <h3 align="center">A Python Programmer and a Full Stack Developer</h3>
 
