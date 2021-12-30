@@ -32,7 +32,7 @@
 
 
 <br>
-<h2>Watch the snake eating my Github Graphs</h2>
+<h2>Watch my GitHub Graph is getting eaten by the snake</h2>
 <img src="https://github.com/chanakyha/chanakyha/blob/output/github-contribution-grid-snake.svg">
 <h2>Coders when they have no internet</h2>
 <img src="Dino_non-birthday_version.gif" style="width:100%">
