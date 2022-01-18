@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chanakyha_vetri" target="blank"><img src="https://img.shields.io/twitter/follow/chanakyha_vetri?logo=twitter&style=for-the-badge" alt="chanakyha_vetri" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, React.js**
+- 🌱 I’m currently learning **React.js & Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chanakyha](https://github.com/chanakyha)
 
