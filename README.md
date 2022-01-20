@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vetrichanakyha2003@gmail.com**
 
-- 📄 Know about my experiences [http://chanakyha-coder.xyz](http://chanakyha-coder.xyz)
+- 📄 Know about my experiences [https://chanakyha-coder.xyz](http://chanakyha-coder.xyz)
 
 - ⚡ Fun fact **I am a Student**
 
