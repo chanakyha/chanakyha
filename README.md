@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js & Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chanakyha](https://github.com/chanakyha)
+- 👨‍💻 All of my projects are available at [https://chanakyha-coder.xyz/#portfolio](https://chanakyha-coder.xyz/#portfolio)
 
 - 📫 How to reach me **vetrichanakyha2003@gmail.com**
 
