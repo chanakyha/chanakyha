@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chanakyha_vetri" target="blank"><img src="https://img.shields.io/twitter/follow/chanakyha_vetri?logo=twitter&style=for-the-badge" alt="chanakyha_vetri" /></a> </p>
 
-- 🌱 I’m currently learning **React.js & Redux**
+- 🌱 I’m currently learning **Next.Js, Firebase and Sanity**
 
 - 👨‍💻 All of my projects are available at [https://chanakyha-coder.xyz/#portfolio](https://chanakyha-coder.xyz/#portfolio)
 
