@@ -14,6 +14,7 @@
 - ⚡ Fun fact I am a Student<br>
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanakyha-vetrichelvan-21025b135/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Vetrichanakyha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chanakyha_Vetri)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__._chanakyha_.__)
@@ -34,11 +35,14 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+## 👩‍💻 DevCard
+<a href="https://app.daily.dev/chanakyha"><img src="https://api.daily.dev/devcards/a3109292ea194784a456ce64df4d83ad.png?r=9yi" width="400" alt="Chanakyha Vetri's Dev Card"/></a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=chanakyha&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chanakyha) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
   
