@@ -35,9 +35,6 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 👩‍💻 DevCard
-<a href="https://app.daily.dev/chanakyha"><img src="https://api.daily.dev/devcards/a3109292ea194784a456ce64df4d83ad.png?r=9yi" width="400" alt="Chanakyha Vetri's Dev Card"/></a>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=chanakyha&icon=0&color=0)](https://visitcount.itsvg.in)
 
