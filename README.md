@@ -1,4 +1,4 @@
-<img src="avatar-bg.png">
+<img src="banner.jpeg">
 
 
 <h1 align="center">Hi 👋, I'm Chanakyha</h1>
