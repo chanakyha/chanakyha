@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Chanakyha</h1>
 <h3 align="center">A Full Stack Developer and Python Programmer</h3>
 
-<p align="left"> <a href="https://twitter.com/chanakyha_dev" target="blank"><img src="https://img.shields.io/twitter/follow/chanakyha_vetri?logo=twitter&style=for-the-badge" alt="chanakyha_vetri" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chanakyha_dev" target="blank"><img src="https://img.shields.io/twitter/follow/chanakyha_dev?logo=twitter&style=for-the-badge" alt="chanakyha_vetri" /></a> </p>
 
 # 💫 About Me:
 - 🌱 I’m currently learning <b>Next.Js, Firebase and Sanity</b>
